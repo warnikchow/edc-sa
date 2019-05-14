@@ -1,2 +1,2 @@
-# edc-sa
-Effective discourse component-based speech act
+# EDC-SA
+Effective Discourse Component-based Speech Act
